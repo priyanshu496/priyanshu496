@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @priyanshu496
 - 🤖I am an Electronics and Communication Engineering graduate
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning the backend
-- 📫 How to reach me priyanshu.23bora@gmail.com
+- 👀 I’m interested in MERN stack Development
+- 📫 reach me priyanshu.23bora@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
