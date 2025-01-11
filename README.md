@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu496
 - 🤖I am an Electronics and Communication Engineering graduate
-- 👀 I’m interested in MERN stack Development
+- 👀 I’m a MERN stack Developer
 - 📫 reach me priyanshu.23bora@gmail.com
 - 😄 Pronouns: he/him
 
