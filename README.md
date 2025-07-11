@@ -14,7 +14,3 @@ Hello! 👋 I'm Priyanshu, a skilled full-stack developer ready to deliver excep
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshu496&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
