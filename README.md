@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Priyanshu, a skilled full-stack developer ready to deliver exceptional web applications. Let’s connect!with a passion for creating dynamic and engaging web applications. Let's connect and bring your ideas to life!
+Hello! 👋 I'm Priyanshu, a skilled full-stack developer ready to deliver exceptional web applications. Let’s connect! I'm passionate about creating dynamic and engaging web applications. Let's connect and bring your ideas to life!
 
 
 ## 🌐 Socials:
