@@ -2,7 +2,7 @@
 Hello! 👋 I'm Priyanshu, a skilled full-stack developer ready to deliver exceptional web applications. Let’s connect!!! I'm passionate about creating dynamic and engaging web applications. Let's connect and bring your ideas to life!
 
 
-## 🌐 Socials:
+## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshubora) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/priyanshu_bora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactpriyanshubora@gmail.com) 
 
 # 💻 Tech Stack:
